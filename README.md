@@ -1,5 +1,5 @@
-# nix-goodies
-collection of scripts for nix systems
+# scripts for linux
+collection of scripts for your linux
 
 |Directory|Description|
 |---|---|
