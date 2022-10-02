@@ -1,32 +1,27 @@
 #!/bin/sh
 
 #
+# Author Dorin-Tfeia Duminică. All rights reserved.
+# Redistribution(s) and/or use(s) and/or representation(s) in source
+# and/or binary and/or other form(s) with or without modification(s) are
+# permitted only with explicit written consent of the Author during the
+# period in which the Author is in possession of the written consent.
+# Any direct and/or indirect unauthorized use(s) and/or reproduction(s)
+# and/or representation(s) in part or in whole without explicit written
+# consent from the Author shall cease and the material shall be deleted
+# permanently or the support on which the material resides in part or in
+# whole shall be destroyed effective immediately without notice and/or
+# request from or by the Author Dorin-Tfeia Duminică. 
+# The Author shall remain the sole copyright holder, rights holder,
+# beneficiery, controller, regardless of the law(s) of the state(s) in
+# which part(s) of the material created and/or developed and/or
+# transited and/or is being stored and/or the Author resides.
+# The Author assumes zero liability for any and all potential damages
+# incurred directly and/or indirectly in any way and/or and/or shape
+# and/or form by use and/or misuse including, but not limited to,
+# known issue(s) of or with the material created and/or developed by the
+# Author with and/or without intention of any type and/or nature.
 # Copyright(c) Dorin-Tfeia Duminică. All rights reserved.
-#
-# Redistribution and use in source and binary forms, with or without 
-# modification, are permitted provided that the following conditions are met:
-#
-#   1. Redistributions of source code must retain the above copyright notice, 
-#      this list of conditions and the following disclaimer.
-#
-#   2. Redistributions in binary form must reproduce the above copyright notice,
-#      this list of conditions and the following disclaimer in the documentation
-#      and/or other materials provided with the distribution.
-#
-#   3. Neither the name of the copyright holder nor the names of its 
-#      contributors may be used to endorse or promote products derived from this
-#      software without specific prior written permission.
-#
-# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
-# AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
-# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
-# DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-# FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
-# DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
-# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER 
-# CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
-# OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-# OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
 CURRENT_USER=${SUDO_USER:-$(whoami)}
